@@ -2,12 +2,12 @@
 
 
 :root {
-	--fundo: #1E1E1E;		
-	--verde: #6FFF57;
-	--branco: #FFFFFF;
+	--fundo: #ff0000;		
+	--verde: #26ff00;
+	--branco: #fefefe;
 	--botao-on: #3A375E;
-	--botao-off: rgba(58, 55, 94, 0.5);
-	--texto-fundo: rgba(58, 55, 94, 0.3);	/*definindo variáveis*/
+	--botao-off: rgba(86, 85, 103, 0.5);
+	--texto-fundo: rgba(232, 232, 0, 0.3);	/*definindo variáveis*/
 	}
 
 body {
